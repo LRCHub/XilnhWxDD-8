@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "マシーン",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T01:34:18.630002Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コズミック・パワー・オブ・ザ・インフィニット・シュレッド・マシーン",
+      "artist": "DragonForce",
+      "has_synced": true,
+      "path": "select/01_コズミック・パワー・オブ・ザ・インフィニット・シュレッド・マシーン_DragonForce.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラヴィン・マシーン",
+      "artist": "Wynonie Harris",
+      "has_synced": true,
+      "path": "select/02_ラヴィン・マシーン_Wynonie_Harris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラブ・マシーン",
+      "artist": "Junko Ohashi & Minoya Central Station",
+      "has_synced": false,
+      "path": "select/03_ラブ・マシーン_Junko_Ohashi_&_Minoya_Central_Station.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラブ・マシーン",
+      "artist": "Junko Ohashi",
+      "has_synced": false,
+      "path": "select/04_ラブ・マシーン_Junko_Ohashi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Machine (マシーン)",
+      "artist": "Morning Musume",
+      "has_synced": true,
+      "path": "select/05_Love_Machine_(マシーン)_Morning_Musume.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Machine (マシーン)",
+      "artist": "Morning Musume",
+      "has_synced": true,
+      "path": "select/06_Love_Machine_(マシーン)_Morning_Musume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ペンディング・マシーン",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/07_ペンディング・マシーン_Official髭男dism.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "マシーン",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_マシーン_Imagine_Dragons.txt"
+    }
+  ]
+}
